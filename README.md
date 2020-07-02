@@ -1,2 +1,2 @@
-# dsc199
-DSC-199
+# Tackling and Analyzing COVID-19 with Data Science
+
