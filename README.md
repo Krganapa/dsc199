@@ -18,4 +18,4 @@
 
 
 
-* [References]()
+* [References](https://github.com/Krganapa/dsc199/blob/master/references/master_list.txt)
