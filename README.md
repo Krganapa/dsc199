@@ -1,5 +1,6 @@
 # Tackling and Analyzing COVID-19 with Data Science
 
+<h2> <u> About </u> </h2>
 
 
 
