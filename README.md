@@ -7,6 +7,7 @@ The project involves quering Viral proteins in a large community Knowledge Graph
 
 <hr>
 
+<h2> <u> Contents </u> </h2>
 
 
 
