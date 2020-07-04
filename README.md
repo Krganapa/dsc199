@@ -17,6 +17,7 @@ The project involves quering Viral proteins in a large community Knowledge Graph
 
 
 
+* [Notebooks](https://github.com/Krganapa/dsc199/tree/master/notebooks)
 
 
 * [References](https://github.com/Krganapa/dsc199/blob/master/references/master_list.txt)
