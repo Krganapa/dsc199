@@ -25,7 +25,7 @@ The project involves quering Viral proteins in a large community Knowledge Graph
 
 
 <h2> <u> Installation </u> </h2>
-Below are instructions to setup this project on your local machine using a Anaconda or miniconda environment. Please ensure that you have installed [git](https://git-scm.com) on your machine beforehand.
+Below are instructions to setup this project on your local machine using a Anaconda or miniconda environment. Please ensure that you have installed [`git`](https://git-scm.com/) on your machine beforehand.
 
 **Note: These instructions assume that the directory (`dsc199`) containing all the files will be located in the path `C:\Users\<username>`. Feel free to change where you store your files, but ensure that you are in the same directory for every step.**
 
