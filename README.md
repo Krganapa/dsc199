@@ -46,7 +46,7 @@ Using a [conda](https://docs.conda.io/en/latest/) environment will help manage m
 
 ```
 cd dsc199
-conda create --name dsc199 python==3.7
+conda create --name dsc199 python=3.7
 ```
 
 Once the environment is created, activate it in the Anaconda/miniconda console.
