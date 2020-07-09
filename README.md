@@ -3,7 +3,7 @@
 <h2> <u> About </u> </h2>
 This repo consists of all the  codebase, work, and references, for the Independent Study and Research for Data Science (DSC-199) course from UCSD during Summer 2020 under Ilya Zaslavsky, Director of Spatial Information Systems Laboratory and Peter Rose, Director of Structural Bioinformatics Laboratory at the San Diego Supercomputer Center. 
   
-The project involves quering Viral proteins in a large community Knowledge Graph, and using this information for COVID modeling by analyzing the same from Bioinfromatics and Geospatial standpoints. The codebase shall be primarily in python via jupyter notebooks. 
+The project attempts to explore metadata representation in Knowlege Graphs and attempts to build automated systems for optimal querying across multiple knowledge graphs to drive data-driven science. As a simple use case, the project attempts to use such systems to link knowledge graphs containing protein-protein interactions and protein-drug interactions to showcase viable drugs for repurposing needs. 
 
 <hr>
 
