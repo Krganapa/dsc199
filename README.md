@@ -74,6 +74,7 @@ jupyter notebook
 
 This will open up a web-browser where you will access all of the files associated with `dsc199`.
 
+**For Windows users:**
 Alternatively, you can write a batch script to start-up the notebook instantly.
 
 On `Notepad`, write the following script:
