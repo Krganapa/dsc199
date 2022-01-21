@@ -6,7 +6,7 @@ pandas==1.0.3
 matplotlib==3.2.1
 panel==0.9.5
 pytz==2019.3
-IPython==7.13.0
+IPython==7.16.3
 Cython==0.29.13
 pyviz_comms==0.7.5
 xlrd
